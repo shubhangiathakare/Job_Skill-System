@@ -4,7 +4,7 @@ The Job Skill Matching & Recruitment System is a web-based platform designed to 
 
 🛠 Technologies Used
 Backend: Java, Spring MVC
-
+ 
 ORM: HibernateTemplate
 Database: MySQL
 Version Control: Git & GitHub 
