@@ -7,7 +7,7 @@ Backend: Java, Spring MVC
  
 ORM: HibernateTemplate
 Database: MySQL
-Version Control: Git & GitHub 
+Version Control: Git & GitHub  
 
 ✨ Features
 User Authentication & Authorization – Secure login and role-based access for job seekers and recruiters.
